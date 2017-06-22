@@ -70,7 +70,7 @@ In this step we are going to ask the user to type in the four items they would l
   
  ![image](images/step3_1.png)
   
-+ Next, we are going to need to store the information the user types into a variable called `user_choice` so we can use it later.
++ Next, we are going to need to store the information the user types into a variable called `user_choice` so we can use it later. This code will go on the same line of what we just typed in.
 
  ![image](images/step3_2.png)
  
@@ -86,7 +86,7 @@ In this step we are going to ask the user to type in the four items they would l
  
 # Step 4: Organizing the User Input  { .activity}
 
-In this step we are going to organize what the user has typed into a list we can evaluate it later.
+In this step we are going to organize what the user has typed into a list so we can evaluate it later.
 
 ## Activity Checklist { .check}
 
