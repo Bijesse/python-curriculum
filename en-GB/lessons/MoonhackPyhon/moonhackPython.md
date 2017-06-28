@@ -78,7 +78,7 @@ In this step we are going to ask the user to type in the four items they would l
 
  ![image](images/step3_3.png)
 
-+ Run your code. Type your selection after the “>>>” symbols and hit enter. Do you see your selection appear? If not, check your code for any errors before moving on.
++ Run your code. Type your selection after it says "Enter your choice:" and hit enter. Do you see your selection appear? If not, check your code for any errors before moving on.
   
 + Next, we are going to hide the code we just typed because in our final program we do not want the user_choice variable to appear in the program. To hide this code from you program we are going to turn it into a “comment” by placing a hashtag (#) before it.
 
